@@ -1,5 +1,5 @@
-<h1> Apps Lihat Cuaca</h1>
-Meruapakan aplikasi sehederhana untuk menampilkan perkiraan cuaca, menggunakan framework Ionic. Apps ini terdiri atas tiga tabs sebagai berikut.
+# Apps Lihat Cuaca
+Meruapakan aplikasi sehederhana untuk menampilkan perkiraan cuaca, menggunakan framework Ionic dan React. Apps ini terdiri atas tiga tabs sebagai berikut. 
 
 * Tab 1 => Cuaca sekarang
 * Tab 2 => Perkiraan
@@ -7,10 +7,11 @@ Meruapakan aplikasi sehederhana untuk menampilkan perkiraan cuaca, menggunakan f
 
 Berikut gambar aplikasi yang akan kita buat.
 
-<img src="https://github.com/omayib/LihatCuacaDulu/blob/master/img/tab1.png?raw=true" height="500" border="1">
+<img src="https://github.com/omayib/LihatCuacaDulu/blob/master/img/tab1.png?raw=true" height="500" style="border: 1px solid black" >
 
-<h1> Cara install</h1>
-Anda bisa mengunduh source code ini dan menjalankan pada komputer masing-masing dengan mudah. 
+# Cara install
+Anda bisa mengunduh source code ini dan menjalankan pada komputer masing-masing dengan mudah. Pastikan pada komputer anda sudah tersedia frameowrk <a href="https://ionicframework.com"> Ionic</a>. Berikut langkah untuk me-rekonstruksi aplikasi Lihat Cuaca Dulu.
+
 
 1. install git
 2. jalankan perintah berikut untuk menduplikasi ke komputer anda
